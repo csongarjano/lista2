@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextTask" type="id" />
+    <item name="buttonAddTask" type="id" />
+    <item name="listViewTasks" type="id" />
+</resources>
